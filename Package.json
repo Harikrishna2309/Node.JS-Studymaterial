@@ -1,0 +1,14 @@
+{
+    "name": "hari",
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+        "body-parser": "^1.20.2",
+        "express": "^4.18.2",
+        "gitignore": "^0.7.0",
+        "moment": "^2.29.4",
+        "nodemon": "^3.0.1",
+        "pg": "^8.11.3"
+    }
+}
